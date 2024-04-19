@@ -94,7 +94,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#ffffff",
+      "#5E5E5E",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
@@ -126,7 +126,7 @@
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#D5D5D5",
+      "#000000",
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
