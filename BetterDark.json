@@ -54,7 +54,7 @@
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#333333",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -126,14 +126,14 @@
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#000000",
+      "#D5D5D5",
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
       "#000000"
     ],
     "BG_BACKDROP": [
-      "#04010173"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#000000"
