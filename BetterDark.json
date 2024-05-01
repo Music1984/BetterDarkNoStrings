@@ -181,8 +181,9 @@
     "YELLOW_300": "#ffffff",
     "GREEN_600": "#ffffff",
     "DANGER": "#2c2c2c",
-    "RED": "#848484",
+    "RED": "#BB4C48",
     "RED_400": "#2C2C2C"
+    "KEYBOARD": "#ffffff"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
